@@ -1,0 +1,10 @@
+
+.swiper-container {
+    position: relative;
+    padding-top: unquote("min((100vh - 85px),75%)");
+    .swiper-wrapper {
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
+}
